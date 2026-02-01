@@ -1,4 +1,4 @@
-# Myanmar Food Price Analysis (2008 - 2026)
+# A 15-Year Analysis of Food Price Inflation (2008 - 2026)
 # 📌 Project Overview
 This project provides a comprehensive analysis of food price volatility and economic trends in Myanmar over a 15-year period. Utilizing official World Food Programme (WFP) data, I tracked the cost of essential commodities to identify patterns of inflation and regional price disparities during periods of significant socioeconomic change.
 # 🛠️ Tech Stack
